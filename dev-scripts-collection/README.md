@@ -23,6 +23,9 @@ A collection of useful shell scripts and batch files for developers.
 ### Linux/macOS
 
 ```bash
+# Clone the repository
+gh repo clone 553226713/dev-scripts-collection
+
 # Make scripts executable
 chmod +x git-cleanup.sh
 chmod +x new-branch.sh
@@ -52,7 +55,23 @@ Get the **Pro Version** with additional scripts:
 - 📝 Conventional commit helper
 - 📦 npm publishing automation
 
-[Buy Pro Version →](your-payment-link)
+[Buy Pro Version →](https://gum.co/dev-scripts-pro)
+
+## ❤️ Support
+
+If this template helps you, please consider:
+
+- ⭐ **Star** this repository
+- 🐛 **Report** issues
+- 🔧 **Submit** pull requests
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-❤-ea4aaa?style=flat&logo=github-sponsors)](https://github.com/sponsors/553226713)
+
+## 💰 支持一下
+
+如果这个项目对你有帮助，可以扫码打赏支持！
+
+<img src="https://raw.githubusercontent.com/553226713/dev-scripts-collection/main/alipay.png" width="200" alt="支付宝收款码"/>
 
 ## 🤝 Contributing
 
@@ -65,5 +84,5 @@ MIT License
 ---
 
 <div align="center">
-  <p>Made with ❤️</p>
+  <p>Made with ❤️ by <a href="https://github.com/553226713">553226713</a></p>
 </div>
