@@ -94,6 +94,14 @@ MIT License - feel free to use this template for your projects.
 
 ---
 
+## 💰 支持一下
+
+如果这个项目对你有帮助，可以扫码打赏支持！
+
+<img src="https://raw.githubusercontent.com/553226713/nodejs-api-starter/main/alipay.png" width="200" alt="支付宝收款码"/>
+
+---
+
 <div align="center">
-  <p>Made with ❤️</p>
+  <p>Made with ❤️ by <a href="https://github.com/553226713">553226713</a></p>
 </div>
